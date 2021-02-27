@@ -1,0 +1,11 @@
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\BuddhaBrot\Mandlebrot\obj\Debug\Buddhabrot.csprojAssemblyReference.cache
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\BuddhaBrot\Mandlebrot\obj\Debug\Mandlebrot.Buddhabrot.resources
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\BuddhaBrot\Mandlebrot\obj\Debug\Mandlebrot.Properties.Resources.resources
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\BuddhaBrot\Mandlebrot\obj\Debug\Buddhabrot.csproj.GenerateResource.cache
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\BuddhaBrot\Mandlebrot\obj\Debug\Mandlebrot.exe
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\BuddhaBrot\Mandlebrot\obj\Debug\Mandlebrot.pdb
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\BuddhaBrot\Mandlebrot\bin\Debug\Mandlebrot.exe.config
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\BuddhaBrot\Mandlebrot\bin\Debug\Mandlebrot.exe
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\BuddhaBrot\Mandlebrot\bin\Debug\Mandlebrot.pdb
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\BuddhaBrot\Mandlebrot\bin\Debug\Microsoft.VisualStudio.Modeling.SDK.Integration.15.0.dll
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\BuddhaBrot\Mandlebrot\obj\Debug\Buddhabrot.csproj.CopyComplete

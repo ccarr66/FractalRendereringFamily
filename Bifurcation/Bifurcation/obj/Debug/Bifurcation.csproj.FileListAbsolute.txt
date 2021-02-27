@@ -1,0 +1,18 @@
+C:\Users\conno\source\repos\Bifurcation\Bifurcation\obj\Debug\Bifurcation.csprojAssemblyReference.cache
+C:\Users\conno\source\repos\Bifurcation\Bifurcation\obj\Debug\Bifurcation.Properties.Resources.resources
+C:\Users\conno\source\repos\Bifurcation\Bifurcation\obj\Debug\Bifurcation.csproj.GenerateResource.cache
+C:\Users\conno\source\repos\Bifurcation\Bifurcation\obj\Debug\Bifurcation.Bifurcation.resources
+C:\Users\conno\source\repos\Bifurcation\Bifurcation\bin\Debug\Bifurcation.exe.config
+C:\Users\conno\source\repos\Bifurcation\Bifurcation\bin\Debug\Bifurcation.exe
+C:\Users\conno\source\repos\Bifurcation\Bifurcation\bin\Debug\Bifurcation.pdb
+C:\Users\conno\source\repos\Bifurcation\Bifurcation\obj\Debug\Bifurcation.exe
+C:\Users\conno\source\repos\Bifurcation\Bifurcation\obj\Debug\Bifurcation.pdb
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\Bifurcation\Bifurcation\bin\Debug\Bifurcation.exe.config
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\Bifurcation\Bifurcation\bin\Debug\Bifurcation.exe
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\Bifurcation\Bifurcation\bin\Debug\Bifurcation.pdb
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\Bifurcation\Bifurcation\obj\Debug\Bifurcation.csprojAssemblyReference.cache
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\Bifurcation\Bifurcation\obj\Debug\Bifurcation.Bifurcation.resources
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\Bifurcation\Bifurcation\obj\Debug\Bifurcation.Properties.Resources.resources
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\Bifurcation\Bifurcation\obj\Debug\Bifurcation.csproj.GenerateResource.cache
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\Bifurcation\Bifurcation\obj\Debug\Bifurcation.exe
+C:\Users\conno\source\repos\_PERSONAL_PROJECTS_\Fractal Rendering\Bifurcation\Bifurcation\obj\Debug\Bifurcation.pdb
